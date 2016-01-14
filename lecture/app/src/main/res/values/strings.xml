@@ -9,5 +9,6 @@
         <item>Robbie</item>
         <item>Gort</item>
         <item>Optimus Prime</item>
+        <item>I am from strings.xml</item>
     </string-array>
 </resources>

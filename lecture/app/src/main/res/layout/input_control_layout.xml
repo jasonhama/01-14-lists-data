@@ -10,6 +10,7 @@
     tools:context="edu.uw.listdatademo.InputControlActivity">
 
     <Button
+
         android:id="@+id/btnSearch"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

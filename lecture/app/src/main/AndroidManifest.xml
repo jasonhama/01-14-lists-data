@@ -10,14 +10,15 @@
         android:theme="@style/AppTheme">
         <activity android:name=".InputControlActivity"
             android:label="Input Controls">
+
+        </activity>
+        <activity android:name=".ListActivity"
+            android:label="List Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name=".ListActivity"
-            android:label="List Activity">
         </activity>
     </application>
 

@@ -1,0 +1,13 @@
+views are things that the user can see. buttons, images, etc.
+
+edit text allows user input
+
+spinner is a dropdown menu
+spinner values in strings.xml
+
+seek bar selects a value from 0 to 1
+
+pickers pick a date or time.
+
+android:input
+text,number,phone,etc
